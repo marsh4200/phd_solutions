@@ -10,7 +10,7 @@ https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repositor
 
 
 
-A custom [Home Assistant](https://www.home-assistant.io/) integration by **@marsh4200** for controlling and monitoring the **PHD 4K444 HDMI Matrix Switch**.  
+A custom [Home Assistant](https://www.home-assistant.io/) integration by **@marsh4200** for controlling and monitoring the **PHD SOLUTIONS HDMI Matrix Switch**.  
 This integration communicates directly with the matrix over **TCP (port 23)** to manage **power** and **HDMI routing** — fully **local** with **no cloud dependency**.
 
 ---
@@ -35,9 +35,9 @@ This integration communicates directly with the matrix over **TCP (port 23)** to
 
 **Category:** `Integration`
 
-3. Click **Add**, then search for **PHD 4K444 Matrix** in HACS  
+3. Click **Add**, then search for **phd_solutions** in HACS  
 4. Click **Install** and **Restart Home Assistant**
-5. Go to **Settings → Devices & Services → Add Integration → PHD 4K444 Matrix**
+5. Go to **Settings → Devices & Services → Add Integration → phd_solutions**
 6. Enter the details below:
 
 | Setting | Description | Example |

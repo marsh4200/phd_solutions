@@ -1,11 +1,11 @@
-# 🟣 PHD SOLUTIONS 4K444 HDMI Matrix — Home Assistant Integration
+# 🟣 PHD SOLUTIONS HDMI Matrix Switch — Home Assistant Integration
 ### Version: `0.0.1`
 
 [![Add to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](
 https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repository=phd_solutions&category=integration
 )
 
-<a href="https://my.home-assistant.io/redirect/config_flow_start/?domain=phd_4k444" target="_blank"></a>
+<a href="https://my.home-assistant.io/redirect/config_flow_start/?domain=phd_solutions" target="_blank"></a>
 
 
 

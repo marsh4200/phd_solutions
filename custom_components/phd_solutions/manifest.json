@@ -1,0 +1,12 @@
+{
+  "domain": "phd_solutions",
+  "name": "PHD Solutions",
+  "version": "0.0.1",
+  "documentation": "https://github.com/marsh4200/phd_solutions",
+  "issue_tracker": "https://github.com/marsh4200/phd_solutions/issues",
+  "codeowners": ["@marsh4200"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "integration_type": "hub",
+  "config_flow": true
+}

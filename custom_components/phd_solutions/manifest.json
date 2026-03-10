@@ -1,7 +1,7 @@
 {
   "domain": "phd_solutions",
   "name": "PHD Solutions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "documentation": "https://github.com/marsh4200/phd_solutions",
   "issue_tracker": "https://github.com/marsh4200/phd_solutions/issues",
   "codeowners": ["@marsh4200"],

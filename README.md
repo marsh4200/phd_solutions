@@ -1,5 +1,5 @@
 # 🟣 PHD SOLUTIONS HDMI Matrix Switch — Home Assistant Integration
-### Version: `0.0.1`
+
 
 [![Add to HACS](https://my.home-assistant.io/badges/hacs_repository.svg)](
 https://my.home-assistant.io/redirect/hacs_repository/?owner=marsh4200&repository=phd_solutions&category=integration
